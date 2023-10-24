@@ -1,9 +1,9 @@
 <h1>Call me Eddy🚀🚀🚀</h1>
-<h4>An introvert in love with Javascript, React, Tailwindcss, Redux and many more... I am a Frontend Engineer but I can find my way around backend code (not proficient)</h4>
+<h4>An introvert in love with React in different flavors (Javascript or Typescript). I am a Frontend Engineer but I can find my way around backend code (feature implementation and bug fixing)</h4>
 
-- 🌱 I’m currently learning **Typescript, React Native and VueJs**
+- 🌱 I’m currently learning to be better every day.
 
-- 💬 You can buzz me up on issues around **react, redux, reselect, tailwindcss, scss and may just about being friends 😁**
+- 💬 You can buzz me up on issues around **react, tailwindcss, scss and may just about being friends 😁**
 
 - 📫 You can reach me via **mail: edward.bella.d@gmail.com twitter: @bell_Zzz**
 
